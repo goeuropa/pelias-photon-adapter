@@ -13,7 +13,7 @@ Pelias format. This data is returned.
 
 ## Technologies Used
 
-- **Backend**: Express.js, Node.js, axios, cors, helmet and esbuild. libraries.
+- **Backend**: Express.js, Node.js, axios, cors, helmet and esbuild.
 - **Deployment**: See instructions below.
 
 ## Development
